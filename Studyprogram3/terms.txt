@@ -1,0 +1,15 @@
+integer 
+boolean 
+double 
+string
+class 
+psudocode
+identifier 
+switch 
+statement
+syntax error 
+object 
+namespace 
+logic error 
+loop 
+escape sequence

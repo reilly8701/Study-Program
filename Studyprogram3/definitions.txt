@@ -1,0 +1,15 @@
+data type for storing a whole number
+a data type used to store a binary value
+a data type for storing a number that allows a decimal point
+a data type that stores characters
+a template of an object
+a set of instructions in plain English. It does not use any language-specific syntax, and is easily understood.
+names programmers choose for their classes, methods, variables, etc
+a conditional statement that allows the testing of multiple values, however the test is limited to discrete values.
+an action; single lines that end in a semicolon, or a series of lines in a code block.
+an error in programming language's syntax. This type of error is usually caught by a compiler or an IDE and is generally easier to debug than a logic error.
+an instance of a class
+a logical unit of organization that is used to separate a particular programming interface from others.
+an error that produces unintended behavior, yet the code compiles and runs. This type of error is generally a mistake in the programmer's logic; statements have been designed to inadvertently do something that wasn't what they intended.
+the repeated execution of a statement or statements. Common loops: for, while, and do while. 
+a combination of characters beginning with a back slash (\) followed by letters or digits.
